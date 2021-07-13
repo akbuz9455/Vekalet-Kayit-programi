@@ -1,2 +1,2 @@
-# Vekalet-Kay-t-Program-
+# Vekalet-kayit-programi
 C# Form Application ile yaptığım vekalet kayıt programıdır.
