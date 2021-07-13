@@ -1,0 +1,3 @@
+[0308/034754:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Eriþim engellendi. (0x5)
+[0308/034754:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[0308/034754:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Eriþim engellendi. (0x5)
